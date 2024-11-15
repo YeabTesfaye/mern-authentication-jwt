@@ -1,0 +1,1 @@
+ MERN JWT Authentication 🚀 - Secure user authentication and authorization with JSON Web Tokens (JWT) in a MERN (MongoDB, Express, React, Node.js) stack. Safeguard your web applications with this powerful and customizable authentication solution.
